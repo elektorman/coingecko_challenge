@@ -1,6 +1,6 @@
 # Proyecto: coingecko_challenge
 ## Descripcion
-Este proyecto esta elaborado en su totalidad con Noteboolks de Google Colab
+Este proyecto esta elaborado en su totalidad con Notebooks de Google Colab
 
 ## Contenido del proyecto
 Este proyecto contiene los siguietes Notebooks:
